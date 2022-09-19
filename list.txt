@@ -103,12 +103,12 @@
 广州法治高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230168/453206912.smil?0&accountinfo=%7E%7EV2.0%7EUSiyCu_w9WF99m5iQxHYRA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州竞赛高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230122/453206917.smil?0&accountinfo=%7E%7EV2.0%7EYewCUd3e3HXUSDKCfQk-Jw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 香港电视,#genre#
-http://livetv.dnsfor.me/channel.5.m3u8        有線新聞台
-http://livetv.dnsfor.me/channel.6.m3u8        有線財經資訊台
-http://livetv.dnsfor.me/channel.7.m3u8        有線直播新聞台
-http://livetv.dnsfor.me/channel.1.m3u8        RTHK31
-http://livetv.dnsfor.me/channel.2.m3u8        RTHK32
-http://livetv.dnsfor.me/channel.9.m3u8        香港開電視
+有線新聞台,http://livetv.dnsfor.me/channel.5.m3u8
+有線財經資訊台,http://livetv.dnsfor.me/channel.6.m3u8
+有線直播新聞台,http://livetv.dnsfor.me/channel.7.m3u8
+RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
+RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
+香港開電視,http://livetv.dnsfor.me/channel.9.m3u8
 广东标清,#genre#
 广东卫视,rtsp://183.59.168.27/PLTV/88888905/224/3221226963/00000100000000060000000000554901_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWVZUXTl_NkY0zIKkN7USQ%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017120899000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
 广东珠江,rtsp://183.59.168.27/PLTV/88888905/224/3221227004/00000100000000060000000000554900_0.smil?rrsip=125.88.70.140,rrsip=125.88.104.45&zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7ES-s3JQl0FGKURLYq0D4Lmw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw%3D%3D%3A20220306104951%2C21310477%2C113.99.128.208%2C20220306104951%2C02000006000000052017120899000001%2C21310477%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2CEND&it=H4sIAAAAAAAAAC2PzQ6CMBCE36bHhor8eOgJY2Jiqgno1aztUgmFYgskvr0FOc7OfJnZ0YHE85H3kzHE40dYviMSjGl6LaxarEdZPFke0-RA44yylFQLczKgebRGxdS90G0icCW6uZHIla_pDJ6C1g41jI3t6c3A9-7MFiFYbf0s3adJHrEsy0PDuFwr8G1wyBt8YbsBHKqL1SvAazAeyQCyBY0COvw_sHJXp8KaH_i9KrnZAAAA
