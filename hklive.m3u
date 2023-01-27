@@ -29,9 +29,9 @@ https://cdn2.hklive.tv/xxxx/77/index.m3u8
 https://cdn2.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://www.hklive.tv/png_logo/76.png",香港国际财经台 
 https://cdn2.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-id=“7119” tvg-name="有线财经资讯台" tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Finance.png",有线财经资讯台
+#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://www.hklive.tv/png_logo/108.png",有线财经资讯台
 https://cdn2.hklive.tv/xxxx/108/index.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Live_News.png",有线直播新闻台
+#EXTINF:-1 tvg-id=“110” tvg-name="有线直播新闻台" tvg-logo="https://www.hklive.tv/png_logo/110.png",有线直播新闻台
 https://cdn2.hklive.tv/xxxx/110/index.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="娱乐新闻台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6c224f4a20a4462307ecb3ee9222720e0cf3d713?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5",娱乐新闻台
 https://cdn2.hklive.tv/xxxx/91/index.m3u8
