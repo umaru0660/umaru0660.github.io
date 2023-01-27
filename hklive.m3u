@@ -33,6 +33,8 @@ https://cdn2.hklive.tv/xxxx/76/index.m3u8
 https://cdn2.hklive.tv/xxxx/108/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Live_News.png",有线直播新闻台
 https://cdn2.hklive.tv/xxxx/110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="娱乐新闻台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6c224f4a20a4462307ecb3ee9222720e0cf3d713?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5",娱乐新闻台
+https://cdn2.hklive.tv/xxxx/91/index.m3u8
 #EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png",Now直播台
