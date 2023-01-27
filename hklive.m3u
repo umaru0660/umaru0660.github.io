@@ -53,7 +53,7 @@ https://cdn2.hklive.tv/xxxx/98/index.m3u8
 https://cdn2.hklive.tv/xxxx/201/index.m3u8
 #EXTINF:-1 tvg-id=“203” tvg-name="天映经典频道" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZD97Xn_dccl_7uO4Hskj4vOxnFis4a9uArQNl2uktrFG-e6r4IJ9PhoRi8odSQ_aKZ_w&usqp=CAU",天映经典频道
 https://cdn2.hklive.tv/xxxx/203/index.m3u8
-#EXTINF:-1 tvg-id=“504” tvg-name="Animax" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/4f24f5123583693.Y3JvcCw5MjAsNzIwLDE4MCww.png",Animax
+#EXTINF:-1 tvg-id=“504” tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/640px-Animax_logo.svg.png",Animax
 https://cdn2.hklive.tv/xxxx/504/index.m3u8
 #EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
