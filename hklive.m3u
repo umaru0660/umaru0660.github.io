@@ -33,13 +33,13 @@ https://cdn.hklive.tv/xxxx/77/index.m3u8
 https://cdn.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://www.hklive.tv/png_logo/76.png" group-title="[Fan] 奇妙電視",香港国际财经台 
 https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://www.hklive.tv/png_logo/108.png" group-title="[i-cable] 有線電視",有线财经资讯台
+#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://zh.wikipedia.org/zh-sg/%E6%9C%89%E7%B7%9A%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0#/media/File:I-CABLE_Finance.png" group-title="[i-cable] 有線電視",有线财经资讯台
 https://cdn.hklive.tv/xxxx/108/index.m3u8
-#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://www.hklive.tv/png_logo/108.png" group-title="[i-cable] 有線電視",有线财经资讯台
+#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://zh.wikipedia.org/zh-sg/%E6%9C%89%E7%B7%9A%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0#/media/File:I-CABLE_Finance.png" group-title="[i-cable] 有線電視",有线财经资讯台
 http://livetv.dnsfor.me:80/channel.6.m3u8
-#EXTINF:-1 tvg-id=“110” tvg-name="有线直播新闻台" tvg-logo="https://www.hklive.tv/png_logo/110.png" group-title="[i-cable] 有線電視",有线直播新闻台
+#EXTINF:-1 tvg-id=“110” tvg-name="有线直播新闻台" tvg-logo="https://zh.wikipedia.org/zh-sg/%E6%9C%89%E7%B7%9A%E7%9B%B4%E6%92%AD%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:I-CABLE_Live_News_Channel.png" group-title="[i-cable] 有線電視",有线直播新闻台
 https://cdn.hklive.tv/xxxx/110/index.m3u8
-#EXTINF:-1 tvg-id=“110” tvg-name="有线直播新闻台" tvg-logo="https://www.hklive.tv/png_logo/110.png" group-title="[i-cable] 有線電視",有线直播新闻台
+#EXTINF:-1 tvg-id=“110” tvg-name="有线直播新闻台" tvg-logo="https://zh.wikipedia.org/zh-sg/%E6%9C%89%E7%B7%9A%E7%9B%B4%E6%92%AD%E6%96%B0%E8%81%9E%E5%8F%B0#/media/File:I-CABLE_Live_News_Channel.png" group-title="[i-cable] 有線電視",有线直播新闻台
 http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="[TVB] myTV SUPER",娱乐新闻台
 https://cdn.hklive.tv/xxxx/91/index.m3u8
