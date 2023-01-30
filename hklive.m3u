@@ -58,6 +58,8 @@ https://cdn.hklive.tv/xxxx/203/index.m3u8
 #EXTINF:-1 tvg-id=“504” tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/640px-Animax_logo.svg.png" group-title="[TVB] myTV SUPER",Animax
 https://cdn.hklive.tv/xxxx/504/index.m3u8
 #EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="[Now-TV] 電訊盈科媒電視",Now新闻台
+https://cdn.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="[Now-TV] 電訊盈科媒電視",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png" group-title="[Now-TV] 電訊盈科媒電視",Now直播台
 https://api.leonardpark.dev/live/now/331
