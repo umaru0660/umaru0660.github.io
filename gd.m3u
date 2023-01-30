@@ -19,7 +19,7 @@ https://epg.pw/stream/81cf95bcb65d90a7937496b6105913dbc1cace1affade2c1b45666689c
 https://epg.pw/stream/2686a16ec6b441da26b6e87cfe3ce34439442e51e69777b23a3ac189f985109a.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
 https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
-#EXTINF:-1 tvg-id="11" tvg-name="广州综合" tvg-logo="https://baike.baidu.com/pic/广州广播电视台综合频道/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=37d3d539b6003af352120c1f3a2ac65c1038b621" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="11" tvg-name="广州综合" tvg-logo="" group-title="广东",广州综合
 https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf05feb36.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://baike.baidu.com/pic/广州广播电视台综合频道/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=37d3d539b6003af352120c1f3a2ac65c1038b621" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="" group-title="广东",广州综合
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
