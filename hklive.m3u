@@ -67,23 +67,3 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png" group-title="[Now-TV] 電訊盈科媒電視",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
-https://epg.pw/stream/026d74e28badf07cc288ba01fb18b87fd965f47c7182e7d4eede00ed5669afb4.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东",广东公共
-https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
-https://epg.pw/stream/9cdb6c33eb5a75b5628830f39be3331dbffa1cdba3e09521aa82fa06012b20af.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
-https://epg.pw/stream/5245154a811c48a5f4879953135981353d2fdf422dab946a7346640572da65ac.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺
-https://epg.pw/stream/4a6df6bdfc9d59e3fcbf0dd43c8a2f2e8b29aa203a62dce6d745747792b5f25f.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共
-https://epg.pw/stream/e46de50fef165b4abd5b372b3c65d0befe94c229002c006da3ef5251300c5279.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
-https://epg.pw/stream/81cf95bcb65d90a7937496b6105913dbc1cace1affade2c1b45666689c8f9c48.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
-https://epg.pw/stream/2686a16ec6b441da26b6e87cfe3ce34439442e51e69777b23a3ac189f985109a.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
-https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
