@@ -1,43 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png",翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://www.hklive.tv/png_logo/82.png",J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="https://www.hklive.tv/png_logo/83.png",无线新闻台
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png",明珠台
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png",明珠台 (粤语声道)
-https://cdn.hklive.tv/xxxx/84b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="财经体育资讯台" tvg-logo="https://www.hklive.tv/png_logo/85.png",财经体育资讯台
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id=“7122” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png",有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png",Now新闻台
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png",ViuTV
-https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/96.png",ViuTV Six
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="https://www.hklive.tv/png_logo/31.png",港台电视31 
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="https://www.hklive.tv/png_logo/32.png",港台电视32 
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台电视33" tvg-logo="https://www.hklive.tv/png_logo/33.png",港台电视33 
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN纪录频道" tvg-logo="https://www.hklive.tv/png_logo/34.png",CGTN纪录频道 
-https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png",HOY TV 
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="HOY TV资讯台" tvg-logo="https://www.hklive.tv/png_logo/78.png",HOY TV资讯台 
-https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://www.hklive.tv/png_logo/76.png",香港国际财经台 
-https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-id=“7119” tvg-name="有线财经资讯台" tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Finance.png",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Live_News.png",有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png",Now直播台
-https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png",Now Sports Prime
-http://livetv.dnsfor.me:80/channel.12.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png",广东珠江
+https://epg.pw/stream/026d74e28badf07cc288ba01fb18b87fd965f47c7182e7d4eede00ed5669afb4.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png",广东新闻
+https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东公共.png",广东公共
+https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
+#EXTINF:-1 group-title="广东"  tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
+https://epg.pw/stream/9cdb6c33eb5a75b5628830f39be3331dbffa1cdba3e09521aa82fa06012b20af.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
+https://epg.pw/stream/5245154a811c48a5f4879953135981353d2fdf422dab946a7346640572da65ac.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png",广东综艺
+https://epg.pw/stream/4a6df6bdfc9d59e3fcbf0dd43c8a2f2e8b29aa203a62dce6d745747792b5f25f.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png",深圳公共
+https://epg.pw/stream/e46de50fef165b4abd5b372b3c65d0befe94c229002c006da3ef5251300c5279.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
+https://epg.pw/stream/81cf95bcb65d90a7937496b6105913dbc1cace1affade2c1b45666689c8f9c48.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png",广州新闻
+https://epg.pw/stream/2686a16ec6b441da26b6e87cfe3ce34439442e51e69777b23a3ac189f985109a.m3u8
+#EXTINF:-1 group-title="广东" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=37d3d539b6003af352120c1f3a2ac65c1038b621",广州综合 
+https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf05feb36.m3u8
