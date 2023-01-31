@@ -25,3 +25,7 @@ https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf0
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
 #EXTINF:-1 tvg-id="13" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://epg.pw/stream/32bb7d3cc3b6354c3d54d5774b3f49fd75aca59e7c3bbc6e3d44aba1a9688eed.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚高清电影台.png" group-title="电影",美亚电影台
+https://epg.pw/stream/6de657570db53534d998ec871aa645c067cc5040092b750cae513f8acaa78f46.ctv
+#EXTINF:-1 tvg-id="13" tvg-name="星卫电影台" tvg-logo="https://epg.112114.xyz/logo/星卫HD电影.png" group-title="电影",星卫电影台
+https://epg.pw/stream/a4b0d8f45854cb83d20b57a708138caa3a025f4004ae337e0219d13774d537f7.ctv
