@@ -23,6 +23,10 @@ https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
 https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf05feb36.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州综合
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
+#EXTINF:-1 tvg-id="13" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
+https://aplays.gztv.com/sec/fazhi.m3u8?auth_key
+#EXTINF:-1 tvg-id="13" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",南国都市
+https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
 #EXTINF:-1 tvg-id="13" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://epg.pw/stream/32bb7d3cc3b6354c3d54d5774b3f49fd75aca59e7c3bbc6e3d44aba1a9688eed.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚高清电影台.png" group-title="电影",美亚电影台
