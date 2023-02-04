@@ -1,5 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
+http://www.namewee.xyz/gd.php?pk=1183
+#EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
+http://www.namewee.xyz/gd.php?pk=1182
+#EXTINF:-1 tvg-id="2" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+http://www.namewee.xyz/gd.php?pk=1186
+#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
 https://epg.pw/stream/026d74e28badf07cc288ba01fb18b87fd965f47c7182e7d4eede00ed5669afb4.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
 https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
