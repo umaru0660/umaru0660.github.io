@@ -11,7 +11,7 @@ http://138.2.38.9:5678/gdtv.php?id=gdgg
 http://138.2.38.9:5678/gdtv.php?id=gdty
 #EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
 https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
-#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1" group-title="广东",广州综合
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
 #EXTINF:-1 tvg-id="51" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视
 http://138.2.38.9:5678/gdtv.php?id=nfws
@@ -37,7 +37,7 @@ https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
 https://aplays.gztv.com/sec/fazhi.m3u8?auth_key
 #EXTINF:-1 tvg-id="9" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
 https://epg.pw/stream/2686a16ec6b441da26b6e87cfe3ce34439442e51e69777b23a3ac189f985109a.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="11" tvg-name="广州综合" tvg-logo="https://pix1.tvzhe.com/images/logo/channel/GZTV1/GZTV1.jpg?1" group-title="广东",广州综合
 https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf05feb36.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共
 https://epg.pw/stream/e46de50fef165b4abd5b372b3c65d0befe94c229002c006da3ef5251300c5279.m3u8
