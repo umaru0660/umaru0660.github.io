@@ -51,10 +51,6 @@ https://aplays.gztv.com/sec/fazhi.m3u8?auth_key
 https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
 #EXTINF:-1 tvg-id="13" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
 https://epg.pw/stream/32bb7d3cc3b6354c3d54d5774b3f49fd75aca59e7c3bbc6e3d44aba1a9688eed.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚高清电影台.png" group-title="电影",美亚电影台
-https://epg.pw/stream/6de657570db53534d998ec871aa645c067cc5040092b750cae513f8acaa78f46.ctv
-#EXTINF:-1 tvg-id="13" tvg-name="星卫电影台" tvg-logo="https://epg.112114.xyz/logo/星卫HD电影.png" group-title="电影",星卫电影台
-https://epg.pw/stream/a4b0d8f45854cb83d20b57a708138caa3a025f4004ae337e0219d13774d537f7.ctv
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://138.2.38.9:5678/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
