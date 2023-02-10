@@ -1,193 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东触电新闻",广东卫视
 http://192.168.10.1:5678/gdtv.php?id=gdws
-#EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
+#EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东触电新闻",广东珠江
 http://192.168.10.1:5678/gdtv.php?id=gdzj
-#EXTINF:-1 tvg-id="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+#EXTINF:-1 tvg-id="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东触电新闻",广东新闻
 http://192.168.10.1:5678/gdtv.php?id=gdxw
-#EXTINF:-1 tvg-id="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东",广东公共
+#EXTINF:-1 tvg-id="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东触电新闻",广东公共
 http://192.168.10.1:5678/gdtv.php?id=gdgg
-#EXTINF:-1 tvg-id="47" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
+#EXTINF:-1 tvg-id="47" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东触电新闻",广东体育
 http://192.168.10.1:5678/gdtv.php?id=gdty
-#EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
+#EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东触电新闻",广州新闻
 https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
-#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东触电新闻",广州综合
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
-#EXTINF:-1 tvg-id="51" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视
+#EXTINF:-1 tvg-id="51" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东触电新闻",大湾区卫视
 http://192.168.10.1:5678/gdtv.php?id=nfws
-#EXTINF:-1 tvg-id="49" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",经济科教
+#EXTINF:-1 tvg-id="49" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东触电新闻",经济科教
 http://192.168.10.1:5678/gdtv.php?id=jjkj
-#EXTINF:-1 tvg-id="53" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+#EXTINF:-1 tvg-id="53" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东触电新闻",广东影视
 http://192.168.10.1:5678/gdtv.php?id=gdys
-#EXTINF:-1 tvg-id="16" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺
+#EXTINF:-1 tvg-id="16" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东触电新闻",广东综艺
 http://192.168.10.1:5678/gdtv.php?id=gdzy
-#EXTINF:-1 tvg-id="46" tvg-name="广东国际" tvg-logo="https://epg.112114.xyz/logo/广东国际.png" group-title="广东",广东国际
+#EXTINF:-1 tvg-id="46" tvg-name="广东国际" tvg-logo="https://epg.112114.xyz/logo/广东国际.png" group-title="广东触电新闻",广东国际
 http://192.168.10.1:5678/gdtv.php?id=gdgj
-#EXTINF:-1 tvg-id="54" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
+#EXTINF:-1 tvg-id="54" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东触电新闻",广东少儿
 http://192.168.10.1:5678/gdtv.php?id=gdse
-#EXTINF:-1 tvg-id="66" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东",嘉佳卡通
+#EXTINF:-1 tvg-id="66" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东触电新闻",嘉佳卡通
 http://192.168.10.1:5678/gdtv.php?id=jjkt
-#EXTINF:-1 tvg-id="15" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="广东",岭南戏曲
+#EXTINF:-1 tvg-id="15" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="广东触电新闻",岭南戏曲
 http://192.168.10.1:5678/gdtv.php?id=lnxq
-#EXTINF:-1 tvg-id="6" tvg-name="GRTN文化频道" tvg-logo="https://img.gdtv.cn/image/202007/0.8676630071906788202ff5603ed2b7517OSS1594019971.png" group-title="广东",GRTN文化频道
+#EXTINF:-1 tvg-id="6" tvg-name="GRTN文化频道" tvg-logo="https://img.gdtv.cn/image/202007/0.8676630071906788202ff5603ed2b7517OSS1594019971.png" group-title="广东触电新闻",GRTN文化频道
 http://192.168.10.1:5678/gdtv.php?id=gdwh
-#EXTINF:-1 tvg-id="13" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",南国都市
+#EXTINF:-1 tvg-id="13" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东触电新闻",南国都市
 https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
-#EXTINF:-1 tvg-id="13" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
+#EXTINF:-1 tvg-id="13" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东触电新闻",广州法治
 https://aplays.gztv.com/sec/fazhi.m3u8?auth_key
-#EXTINF:-1 tvg-id="9" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
+#EXTINF:-1 tvg-id="9" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东触电新闻",广州新闻
 https://epg.pw/stream/2686a16ec6b441da26b6e87cfe3ce34439442e51e69777b23a3ac189f985109a.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="11" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东触电新闻",广州综合
 https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf05feb36.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共
+#EXTINF:-1 tvg-id="7" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东触电新闻",深圳公共
 https://epg.pw/stream/e46de50fef165b4abd5b372b3c65d0befe94c229002c006da3ef5251300c5279.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
+#EXTINF:-1 tvg-id="8" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东触电新闻",深圳都市
 https://epg.pw/stream/81cf95bcb65d90a7937496b6105913dbc1cace1affade2c1b45666689c8f9c48.m3u8
-#EXTINF:-1 group-title="广东",广东珠江
+#EXTINF:-1 group-title="广东谷豆TV",广东珠江
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdzhujiangHD_7500
-#EXTINF:-1 group-title="广东",广东体育
+#EXTINF:-1 group-title="广东谷豆TV",广东体育
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdsportsHD_7000
-#EXTINF:-1 group-title="广东",广东经济科教
+#EXTINF:-1 group-title="广东谷豆TV",广东经济科教
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=GDjingjikejiaoHD_7000
-#EXTINF:-1 group-title="广东",广东新闻.576
+#EXTINF:-1 group-title="广东谷豆TV",广东新闻.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdnews_1500
-#EXTINF:-1 group-title="广东",广东公共.576
+#EXTINF:-1 group-title="广东谷豆TV",广东公共.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdpublic_1500
-#EXTINF:-1 group-title="广东",大湾区卫视.576
+#EXTINF:-1 group-title="广东谷豆TV",大湾区卫视.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdnanfang_1500
-#EXTINF:-1 group-title="广东",广东影视.576
+#EXTINF:-1 group-title="广东谷豆TV",广东影视.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdyingshi_1500
-#EXTINF:-1 group-title="广东",嘉佳卡通.576
+#EXTINF:-1 group-title="广东谷豆TV",嘉佳卡通.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdjiajiacartoon_1500
-#EXTINF:-1 group-title="广东",广东少儿.576
+#EXTINF:-1 group-title="广东谷豆TV",广东少儿.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gdshaoer_1500
-#EXTINF:-1 group-title="广东",广东综艺4K
+#EXTINF:-1 group-title="广东谷豆TV",广东综艺4K
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=GDZYHD4K_38000
-#EXTINF:-1 group-title="广东",G导视高清
+#EXTINF:-1 group-title="广东谷豆TV",G导视高清
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=GHDdaoshi_7500
-#EXTINF:-1 group-title="广东",汕头综合
+#EXTINF:-1 group-title="广东谷豆TV",汕头综合
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shantouyitaogaoqing_4500
-#EXTINF:-1 group-title="广东",汕头经济生活
+#EXTINF:-1 group-title="广东谷豆TV",汕头经济生活
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shantouertaogaoqing_4500
-#EXTINF:-1 group-title="广东",汕头文旅体育
+#EXTINF:-1 group-title="广东谷豆TV",汕头文旅体育
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2508_4500
-#EXTINF:-1 group-title="广东",潮州综合
+#EXTINF:-1 group-title="广东谷豆TV",潮州综合
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3131
-#EXTINF:-1 group-title="广东",潮州民生
+#EXTINF:-1 group-title="广东谷豆TV",潮州民生
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3132
 #EXTINF:-1 group-title="广东",中山综合
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3665
-#EXTINF:-1 group-title="广东",中山公共
+#EXTINF:-1 group-title="广东谷豆TV",中山公共
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3663
-#EXTINF:-1 group-title="广东",中山教育
+#EXTINF:-1 group-title="广东谷豆TV",中山教育
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3664
-#EXTINF:-1 group-title="广东",鹤山综合
+#EXTINF:-1 group-title="广东谷豆TV",鹤山综合
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3709
-#EXTINF:-1 group-title="广东",梅州1
+#EXTINF:-1 group-title="广东谷豆TV",梅州1
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=meizhou1HD_4500
-#EXTINF:-1 group-title="广东",梅州2
+#EXTINF:-1 group-title="广东谷豆TV",梅州2
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=meizhou2HD_4500
-#EXTINF:-1 group-title="广东",增城电视台
+#EXTINF:-1 group-title="广东谷豆TV",增城电视台
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2079
-#EXTINF:-1 group-title="广东",东莞新闻综合
+#EXTINF:-1 group-title="广东谷豆TV",东莞新闻综合
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2121
-#EXTINF:-1 group-title="广东",东莞生活资讯
+#EXTINF:-1 group-title="广东谷豆TV",东莞生活资讯
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2122
-#EXTINF:-1 group-title="广东",斗门融媒
+#EXTINF:-1 group-title="广东谷豆TV",斗门融媒
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2207
-#EXTINF:-1 group-title="广东",惠州1
+#EXTINF:-1 group-title="广东谷豆TV",惠州1
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2314
-#EXTINF:-1 group-title="广东",惠州2
+#EXTINF:-1 group-title="广东谷豆TV",惠州2
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2316
-#EXTINF:-1 group-title="广东",博罗综合
+#EXTINF:-1 group-title="广东谷豆TV",博罗综合
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2305
-#EXTINF:-1 group-title="广东",广州综合.576
+#EXTINF:-1 group-title="广东谷豆TV",广州综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=guangzhou_1500
-#EXTINF:-1 group-title="广东",广州新闻.576
+#EXTINF:-1 group-title="广东谷豆TV",广州新闻.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gznews_1500
-#EXTINF:-1 group-title="广东",广州法治.576
+#EXTINF:-1 group-title="广东谷豆TV",广州法治.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gzeconomic_1500
-#EXTINF:-1 group-title="广东",广州竞赛.576
+#EXTINF:-1 group-title="广东谷豆TV",广州竞赛.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gzcompetition_1500
-#EXTINF:-1 group-title="广东",广州影视.576
+#EXTINF:-1 group-title="广东谷豆TV",广州影视.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=gzfilms_1500
-#EXTINF:-1 group-title="广东",佛山综合.576
+#EXTINF:-1 group-title="广东谷豆TV",佛山综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=foshannews_1500
-#EXTINF:-1 group-title="广东",佛山公共.576
+#EXTINF:-1 group-title="广东谷豆TV",佛山公共.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=foshanyingshi_1500
-#EXTINF:-1 group-title="广东",南海综合.576
+#EXTINF:-1 group-title="广东谷豆TV",南海综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=nanhaitai_2000
-#EXTINF:-1 group-title="广东",顺德综合.576
+#EXTINF:-1 group-title="广东谷豆TV",顺德综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shundetai_2000
 #EXTINF:-1 group-title="广东",湛江综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=zhanjiangzonghe_1500
 #EXTINF:-1 group-title="广东",湛江公共.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=zhanjianggonggong_1500
-#EXTINF:-1 group-title="广东",韶关新闻综合.576
+#EXTINF:-1 group-title="广东谷豆TV",韶关新闻综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shaoguanzonghe_1500
-#EXTINF:-1 group-title="广东",韶关绿色生活.576
+#EXTINF:-1 group-title="广东谷豆TV",韶关绿色生活.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shaoguangonggong_1500
-#EXTINF:-1 group-title="广东",始兴综合.576
+#EXTINF:-1 group-title="广东谷豆TV",始兴综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2641
-#EXTINF:-1 group-title="广东",江门综合.576
+#EXTINF:-1 group-title="广东谷豆TV",江门综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=3712_1500
-#EXTINF:-1 group-title="广东",江门侨乡生活.576
+#EXTINF:-1 group-title="广东谷豆TV",江门侨乡生活.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=jiangmenyitao_1500
-#EXTINF:-1 group-title="广东",新会综合.576
+#EXTINF:-1 group-title="广东谷豆TV",新会综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=xinhui_1500
-#EXTINF:-1 group-title="广东",佛冈.576
+#EXTINF:-1 group-title="广东谷豆TV",佛冈.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2405
-#EXTINF:-1 group-title="广东",怀集综合.576
+#EXTINF:-1 group-title="广东谷豆TV",怀集综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2805
-#EXTINF:-1 group-title="广东",云浮综合.576
+#EXTINF:-1 group-title="广东谷豆TV",云浮综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=yunfuyitao_1500
-#EXTINF:-1 group-title="广东",云浮文旅.576
+#EXTINF:-1 group-title="广东谷豆TV",云浮文旅.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=yunfuertao_1500
-#EXTINF:-1 group-title="广东",珠海1.576
+#EXTINF:-1 group-title="广东谷豆TV",珠海1.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=zhuhaiyitao_1500
-#EXTINF:-1 group-title="广东",珠海2.576
+#EXTINF:-1 group-title="广东谷豆TV",珠海2.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=zhuhaiertao_1500
-#EXTINF:-1 group-title="广东",河源综合.576
+#EXTINF:-1 group-title="广东谷豆TV",河源综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=heyuanyitao_1500
-#EXTINF:-1 group-title="广东",河源公共.576
+#EXTINF:-1 group-title="广东谷豆TV",河源公共.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=heyuanertao_1500
-#EXTINF:-1 group-title="广东",肇庆综合.576
+#EXTINF:-1 group-title="广东谷豆TV",肇庆综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=zhaoqingyitao_1500
-#EXTINF:-1 group-title="广东",肇庆生活服务.576
+#EXTINF:-1 group-title="广东谷豆TV",肇庆生活服务.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=zhaoqingertao_1500
-#EXTINF:-1 group-title="广东",揭阳综合.576
+#EXTINF:-1 group-title="广东谷豆TV",揭阳综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=jieyangyitao_1500
-#EXTINF:-1 group-title="广东",揭阳生活.576
+#EXTINF:-1 group-title="广东谷豆TV",揭阳生活.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=jieyangertao_1500
-#EXTINF:-1 group-title="广东",清远新闻综合.576
+#EXTINF:-1 group-title="广东谷豆TV",清远新闻综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=qingyuanzonghe_1500
-#EXTINF:-1 group-title="广东",清远文旅生活.576
+#EXTINF:-1 group-title="广东谷豆TV",清远文旅生活.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=qingyuangongong_1500
-#EXTINF:-1 group-title="广东",汕尾新闻综合.576
+#EXTINF:-1 group-title="广东谷豆TV",汕尾新闻综合.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shanweiyitao_1500
-#EXTINF:-1 group-title="广东",汕尾文化生活.576
+#EXTINF:-1 group-title="广东谷豆TV",汕尾文化生活.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=shanweiertao_1500
-#EXTINF:-1 group-title="广东",广州共享课堂一年级
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂一年级
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2061_1500
-#EXTINF:-1 group-title="广东",广州共享课堂二年级
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂二年级
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2062_1500
-#EXTINF:-1 group-title="广东",广州共享课堂三年级
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂三年级
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2063_1500
-#EXTINF:-1 group-title="广东",广州共享课堂四年级
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂四年级
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2064_1500
-#EXTINF:-1 group-title="广东",广州共享课堂五年级
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂五年级
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2065_1500
-#EXTINF:-1 group-title="广东",广州共享课堂六年级
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂六年级
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2066_1500
-#EXTINF:-1 group-title="广东",广州共享课堂初一.576
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂初一.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2067_1500
-#EXTINF:-1 group-title="广东",广州共享课堂初二.576
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂初二.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2068_1500
-#EXTINF:-1 group-title="广东",广州共享课堂初三.576
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂初三.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2069_1500
-#EXTINF:-1 group-title="广东",广州共享课堂高一.576
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂高一.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2070_1500
-#EXTINF:-1 group-title="广东",广州共享课堂高二.576
+#EXTINF:-1 group-title="广东谷豆TV",广州共享课堂高二.576
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=2071_1500
 #EXTINF:-1 group-title="香港",翡翠台
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=1350_4500
