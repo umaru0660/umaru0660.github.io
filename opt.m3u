@@ -43,8 +43,6 @@ https://epg.pw/stream/0678b799e8ccbde9fd2be20e33cdb1d2a82d9c3a931df48ed564900cf0
 https://epg.pw/stream/e46de50fef165b4abd5b372b3c65d0befe94c229002c006da3ef5251300c5279.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
 https://epg.pw/stream/81cf95bcb65d90a7937496b6105913dbc1cace1affade2c1b45666689c8f9c48.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="体育",纬来体育
-https://epg.pw/stream/32bb7d3cc3b6354c3d54d5774b3f49fd75aca59e7c3bbc6e3d44aba1a9688eed.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://192.168.10.1:5678/sxg.php?id=CCTV-1H265_4000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
