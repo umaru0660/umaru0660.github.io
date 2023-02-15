@@ -7,7 +7,7 @@ https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6
 https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="电视（临时）",广州新闻
 https://epg.pw/stream/37351e93c114f5e21891ea6664ac084f13c1cd71648c994a54e01c167bfbbe80.ctv
-#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东",广州综合
+#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="电视（临时）",广州综合
 https://epg.pw/stream/d1a736bd704fbbc3fd84cb5343c5c342eed3009f5ccd3a6487ffa238f01d437a.ctv
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="电视（临时）",CCTV-1 综合
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
