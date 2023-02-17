@@ -11,10 +11,6 @@ https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ec
 https://epg.pw/stream/37351e93c114f5e21891ea6664ac084f13c1cd71648c994a54e01c167bfbbe80.ctv
 #EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="电视（临时）",广州综合
 https://epg.pw/stream/d1a736bd704fbbc3fd84cb5343c5c342eed3009f5ccd3a6487ffa238f01d437a.ctv
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="电视（临时）",CCTV-1 综合
-http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="电视（临时）",CCTV-2 财经
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
 http://138.2.38.9:5678/gdtv.php?id=gdws
 #EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
@@ -93,6 +89,106 @@ https://epg.pw/stream/026d74e28badf07cc288ba01fb18b87fd965f47c7182e7d4eede00ed56
 https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东（触电）",广东公共
 https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视(百视通)",CCTV1
+http://www.namewee.xyz/bestv.php?cid=94
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视(百视通)",CCTV2
+http://www.namewee.xyz/bestv.php?cid=95
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视(百视通)",CCTV3
+http://www.namewee.xyz/bestv.php?cid=96
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视(百视通)",CCTV4
+http://www.namewee.xyz/bestv.php?cid=97
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视(百视通)",CCTV5
+http://www.namewee.xyz/bestv.php?cid=98
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视(百视通)",CCTV6
+http://www.namewee.xyz/bestv.php?cid=99
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视(百视通)",CCTV7
+http://www.namewee.xyz/bestv.php?cid=100
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视(百视通)",CCTV8
+http://www.namewee.xyz/bestv.php?cid=101
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视(百视通)",CCTV9
+http://www.namewee.xyz/bestv.php?cid=102
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视(百视通)",CCTV10
+http://www.namewee.xyz/bestv.php?cid=103
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视(百视通)",CCTV11
+http://www.namewee.xyz/bestv.php?cid=104
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视(百视通)",CCTV12
+http://www.namewee.xyz/bestv.php?cid=105
+#EXTINF:-1,tvg-id="CCTV新闻" tvg-name="CCTV新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV新闻台.png" group-title="央视(百视通)",CCTV新闻
+http://www.namewee.xyz/bestv.php?cid=106
+#EXTINF:-1,tvg-id="HD少儿动漫" tvg-name="HD少儿动漫" tvg-logo="https://epg.112114.xyz/logo/HD少儿动漫.png" group-title="央视(百视通)",CCTV少儿
+http://www.namewee.xyz/bestv.php?cid=107
+#EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://epg.112114.xyz/logo/动感音乐.png" group-title="央视(百视通)",CCTV音乐
+http://www.namewee.xyz/bestv.php?cid=108
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视(百视通)",CCTV17
+http://www.namewee.xyz/bestv.php?cid=109
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视(百视通)",广东卫视
+http://www.namewee.xyz/bestv.php?cid=134
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视(百视通)",深圳卫视
+http://www.namewee.xyz/bestv.php?cid=117
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视(百视通)",湖南卫视
+http://www.namewee.xyz/bestv.php?cid=110
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视(百视通)",北京卫视
+http://www.namewee.xyz/bestv.php?cid=111
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视(百视通)",东方卫视
+http://www.namewee.xyz/bestv.php?cid=8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视(百视通)",浙江卫视
+http://www.namewee.xyz/bestv.php?cid=112
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视(百视通)",山东卫视
+http://www.namewee.xyz/bestv.php?cid=113
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视(百视通)",山东卫视
+http://www.namewee.xyz/bestv.php?cid=114
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视(百视通)",山东卫视
+http://www.namewee.xyz/bestv.php?cid=115
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视(百视通)",湖北卫视
+http://www.namewee.xyz/bestv.php?cid=116
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视(百视通)",天津卫视
+http://www.namewee.xyz/bestv.php?cid=118
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视(百视通)",重庆卫视
+http://www.namewee.xyz/bestv.php?cid=119
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视(百视通)",安徽卫视
+http://www.namewee.xyz/bestv.php?cid=120
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视(百视通)",四川卫视
+http://www.namewee.xyz/bestv.php?cid=121
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视(百视通)",河南卫视
+http://www.namewee.xyz/bestv.php?cid=122
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视(百视通)",吉林卫视
+http://www.namewee.xyz/bestv.php?cid=123
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视(百视通)",云南卫视
+http://www.namewee.xyz/bestv.php?cid=124
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视(百视通)",辽宁卫视
+http://www.namewee.xyz/bestv.php?cid=125
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视(百视通)",黑龙江卫视
+http://www.namewee.xyz/bestv.php?cid=126
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视(百视通)",东南卫视
+http://www.namewee.xyz/bestv.php?cid=127
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视(百视通)",广西卫视
+http://www.namewee.xyz/bestv.php?cid=128
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视(百视通)",海南卫视
+http://www.namewee.xyz/bestv.php?cid=129
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视(百视通)",河北卫视
+http://www.namewee.xyz/bestv.php?cid=130
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视(百视通)",河北卫视
+http://www.namewee.xyz/bestv.php?cid=131
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视(百视通)",内蒙古卫视
+http://www.namewee.xyz/bestv.php?cid=132
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视(百视通)",山西卫视
+http://www.namewee.xyz/bestv.php?cid=133
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视(百视通)",青海卫视
+http://www.namewee.xyz/bestv.php?cid=135
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视(百视通)",甘肃卫视
+http://www.namewee.xyz/bestv.php?cid=136
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视(百视通)",宁夏卫视
+http://www.namewee.xyz/bestv.php?cid=137
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视(百视通)",兵团卫视
+http://www.namewee.xyz/bestv.php?cid=138
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视(百视通)",陕西卫视
+http://www.namewee.xyz/bestv.php?cid=139
+#EXTINF:-1,tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://epg.112114.xyz/logo/卡酷卡通.png" group-title="其他(百视通)",卡酷卡通
+http://www.namewee.xyz/bestv.php?cid=140
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视(百视通)",西藏卫视
+http://www.namewee.xyz/bestv.php?cid=144
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他(百视通)",中国教育-1
+http://www.namewee.xyz/bestv.php?cid=143
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视（歌华有线）",CCTV1
 http://138.2.38.9:5678/ghyx.php?id=CCTV1HD_6000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视（歌华有线）",CCTV2
