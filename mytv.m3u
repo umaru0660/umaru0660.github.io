@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://www.hklive.tv/png_logo/83.png" group-title="电视（临时）",无线新闻台
-http://www.namewee.xyz/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="电视（临时）",广东珠江
 https://epg.pw/stream/02b447bbc5e0cc215d67a600f209562ef683335e441152980510520a53d6f4ff.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="电视（临时）",广东公共
 https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="电视（临时）",广东新闻
 https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="电视（临时）",广州新闻
-https://epg.pw/stream/37351e93c114f5e21891ea6664ac084f13c1cd71648c994a54e01c167bfbbe80.ctv
-#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="电视（临时）",广州综合
-https://epg.pw/stream/d1a736bd704fbbc3fd84cb5343c5c342eed3009f5ccd3a6487ffa238f01d437a.ctv
 #EXTINF:-1 tvg-id="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
 http://138.2.38.9:5678/gdtv.php?id=gdws
 #EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
