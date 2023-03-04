@@ -1,0 +1,421 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdzj"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdzj"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL65/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdzj"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdms"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdms"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDMS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdms"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdms"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdms"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDMS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdms"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL45/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel45/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdms"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdxw"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdxw"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDXW".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdxw"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdxw"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdxw"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDXW".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdxw"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdxw"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdgj"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdgj"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDGJ".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdgj"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdgj"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdgj"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDGJ".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdgj"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdgj"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdty"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdty"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDTY".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdty"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdty"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdty"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDTY".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdty"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL34/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdty"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdfc"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdfc"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDFC".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdfc"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb1.html?id=gdfc"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=jjkj"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=jjkj"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=JJKJ".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=jjkj"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdjjkj"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdjjkj"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDJJKJ".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdjjkj"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdjjkj"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdzy"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdzy"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdzy"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdys"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdys"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDYS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdys"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdys"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdys"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDYS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdys"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://1.189.99.196/h5zb.live.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?&encrypt="
+"line": "咪咕线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdys"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdse"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdse"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDSE".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdse"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdse"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdse"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDSE".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdse"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel63/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel63/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL63/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel63/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdse"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdyd"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdyd"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDYD".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdyd"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdyd"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdyd"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=GDYD".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdyd"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdyd"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=nfgw"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=nfgw"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=NFGW".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=nfgw"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb1.html?id=nfgw"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=jjkt"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=jjkt"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=JJKT".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=jjkt"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=jjkt"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=jjkt"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=JJKT".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=jjkt"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://1.189.99.196/h5zb.live.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt="
+"line": "咪咕线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/as.php?id=jjkkt"" tvg-name="                 {"url": "http://lu1.cc/itv/php/as.php?id=jjkkt"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/AS.PHP?ID=JJKKT".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/as.php?id=jjkkt"
+"line": "爱尚线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://121.51.249.8/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8"" tvg-name="                 {"url": "http://121.51.249.8/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://.51..8/LIVEPLAYKK.RTXAPP.COM/LIVE/PROGRAM/LIVE/JJKT//MNF3U8".png" group-title="其他",                 {"url": "http://121.51.249.8/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8"
+"line": "RTX线路"}
+#EXTINF:-1,tvg-id="AMC" tvg-name="AMC" tvg-logo="https://epg.112114.xyz/logo/AMC.png" group-title="其他",                 {"url": "http://223.109.33.33/livehkkp.chinamcache.com/live/jjkt.m3u8"
+"line": "四川广电"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/scgd" tvg-name="                 {"url": "http://lu1.cc/itv/php/scgd" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/SCGD.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/scgd
+php?id=jjkt"
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=jjkt"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=xdjy"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=xdjy"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=XDJY".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=xdjy"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb1.html?id=xdjy"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=lnxq"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=lnxq"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=LNXQ".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=lnxq"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb1.html?id=lnxq"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "file:///F:/wltv/p/video.html?id=https://glive.grtn.cn/live/wenhua_test0203.m3u8"" tvg-name="                 {"url": "file:///F:/wltv/p/video.html?id=https://glive.grtn.cn/live/wenhua_test0203.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"FILE:///F:/WLTV/P/VIDEO.HTML?ID=HTTPS://GLIVE.GRTN.CN/LIVE/WENHUA_TEST3U8".png" group-title="其他",                 {"url": "file:///F:/wltv/p/video.html?id=https://glive.grtn.cn/live/wenhua_test0203.m3u8"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gdwh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb.html?id=gdws"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdjk"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdjk"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/GDTV.PHP?ID=GDJK".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdtv.php?id=gdjk"
+"line": "广东线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gdzb1.html?id=gdjk"
+"line": "广东直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://justsometime.gztv.com/sec/zhonghe.m3u8"
+"line": "广州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzxl.php?id=gzzh"
+"line": "广视线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzzb.html?id=gzzh"
+"line": "广视直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://justsometime.gztv.com/sec/xinwen.m3u8"
+"line": "广州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzxl.php?id=gzxw"
+"line": "广视线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzzb.html?id=gzxw"
+"line": "广视直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://justsometime.gztv.com/sec/yingshi.m3u8"
+"line": "广州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzxl.php?id=gzys"
+"line": "广视线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzzb.html?id=gzys"
+"line": "广视直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://justsometime.gztv.com/sec/fazhi.m3u8"
+"line": "广州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzxl.php?id=gzfz"
+"line": "广视线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzzb.html?id=gzfz"
+"line": "广视直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://justsometime.gztv.com/sec/shenghuos.m3u8"
+"line": "广州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzxl.php?id=gzsh"
+"line": "广视线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzzb.html?id=gzsh"
+"line": "广视直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://justsometime.gztv.com/sec/jibgsai.m3u8"
+"line": "广州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzxl.php?id=gzjs"
+"line": "广视线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/gzzb.html?id=gzjs"
+"line": "广视直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv"" tvg-name="                 {"url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://VIDEO.EPAPER.PYBTV.CN:/LIVE/RTMP_LIVE_DEMO.FLV".png" group-title="北京",                 {"url": "http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv"
+"line": "番禺线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8"" tvg-name="                 {"url": "http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://PL1.CLOUD.DAYANG.COM.CN/LIVE/2_E5I2S3U8".png" group-title="其他",                 {"url": "http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.m3u8"
+"line": "增城m3u8"}
+#EXTINF:-1,tvg-id="                 {"url": "http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.flv"" tvg-name="                 {"url": "http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.flv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://PL1.CLOUD.DAYANG.COM.CN/LIVE/2_E5I2S6.FLV".png" group-title="其他",                 {"url": "http://pl1.cloud.dayang.com.cn/live/10062_E5i2s6.flv"
+"line": "增城flv"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szds"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL46/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szdsj"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL47/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szcjsh"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL48/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szyl"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel49/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel49/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL49/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel49/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szse"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel51/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel51/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL51/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel51/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szgg"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL52/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=yhgw"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel42/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel42/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL42/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel42/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szyd"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=szgj"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/sztv.php?id=sztyjk"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/index.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/index.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/TXT.OTVSTREAM.OTVCLOUD.COM/OTV/SKCC/LIVE/CHANNEL50/INDEX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel50/index.m3u8"
+"line": "YFY线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://lglivepull.sznews.com/live/2645.m3u8"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://lglivepull.sznews.com/live/2647.m3u8"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://lglivepull.sznews.com/live/2646.m3u8"
+"line": "深圳线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dgzh&ch=cd"
+"line": "东莞超清"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dgzh&ch=hd"
+"line": "东莞高清"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dgzh&ch=sd"
+"line": "东莞标清"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=dgxwzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=cd"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=cd"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/DGTV1.PHP?ID=DGGG&CH=CD".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=cd"
+"line": "东莞超清"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=hd"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=hd"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/DGTV1.PHP?ID=DGGG&CH=HD".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=hd"
+"line": "东莞高清"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=sd"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=sd"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/DGTV1.PHP?ID=DGGG&CH=SD".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/dgtv1.php?id=dggg&ch=sd"
+"line": "东莞标清"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=dgshzx"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/tide.php?id=zhxw"
+"line": "TIDE线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/cuxl.php?id=zhxw"
+"line": "CUTV线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/tide.php?id=zhsh"
+"line": "TIDE线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/cuxl.php?id=zhsh"
+"line": "CUTV线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/tide.php?id=stxwzh"
+"line": "TIDE线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/cuxl.php?id=stxwzh"
+"line": "CUTV线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMU34G0BW3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fszh"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMU35F3YM3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsgg"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsgg"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/FSXL.PHP?ID=FSGG".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsgg"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMU23OBDP3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsys"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsys"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/FSXL.PHP?ID=FSYS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsys"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMUDO3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsnh"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsnh"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/FSXL.PHP?ID=FSNH".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsnh"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMU33BJEU3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fssd"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fssd"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/FSXL.PHP?ID=FSSD".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fssd"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMUYDA3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsgm"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsgm"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/FSXL.PHP?ID=FSGM".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsgm"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8"" tvg-name="                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://..33.33/XMPLAY.FSTV.COM.CN/LIVE/XINGMU22FIKX3U8".png" group-title="其他",                 {"url": "http://223.109.33.33/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8"
+"line": "佛山线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsss"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsss"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/FSXL.PHP?ID=FSSS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/fsxl.php?id=fsss"
+"line": "佛山线路2"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/hzxl.php?id=hztv1"
+"line": "惠州线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hdzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hytv"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hytv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=HYTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hytv"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=cazh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/tide.php?id=jmzh"
+"line": "TIDE线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jmzb.html?id=2"
+"line": "江门直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/tide.php?id=jmqxsh"" tvg-name="                 {"url": "http://lu1.cc/itv/php/tide.php?id=jmqxsh"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/TIDE.PHP?ID=JMQXSH".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/tide.php?id=jmqxsh"
+"line": "TIDE线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jmzb.html?id=1"
+"line": "江门直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hszh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=kpzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=kpzh"
+"line": "奥点线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/p/gdy.html?id=kpzh"
+"line": "奥点直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=kpsh"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=kpsh"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=KPSH".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=kpsh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=kpsh"" tvg-name="                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=kpsh"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/GDY1.PHP?ID=KPSH".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=kpsh"
+"line": "奥点线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/p/gdy.html?id=kpsh"" tvg-name="                 {"url": "http://lu1.cc/itv/p/gdy.html?id=kpsh"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/P/GDY.HTML?ID=KPSH".png" group-title="其他",                 {"url": "http://lu1.cc/itv/p/gdy.html?id=kpsh"
+"line": "奥点直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=tstv"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=tstv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=TSTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=tstv"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/im_tsxl.php"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/im_tsxl.php"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/IM_TSXL.PHP".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/im_tsxl.php"
+"line": "台山线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jm_tszb.html"
+"line": "台山直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=xhzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hyzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+"line": "河源线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/hyzb.html?id=hyzh"
+"line": "河源直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hygg"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hygg"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=HYGG".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hygg"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8"" tvg-name="                 {"url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://TMPSTREAM.HYRTV.CN/HYGG/SD/LIVE3U8".png" group-title="其他",                 {"url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8"
+"line": "河源线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/hyzb.html?id=hygg"
+"line": "河源直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=dytv"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=dytv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=DYTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=dytv"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=lpzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=zjtv"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://p2.vzan.com/slowlive/403126774572750089/live.m3u8"
+"line": "微赞线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/vzan.php?id=mzszzh"
+"line": "微赞线路2"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://p2.vzan.com/slowlive/645350022315428297/live.m3u8"
+"line": "微赞线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/vzan.php?id=mzkjsh"
+"line": "微赞线路2"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://p2.vzan.com/slowlive/024926084736123668/live.m3u8"
+"line": "微赞线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://p2.vzan.com/slowlive/738135449685137104/live.m3u8"
+"line": "微赞线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/vzan.php?id=pyzh"
+"line": "微赞线路2"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://p2.vzan.com/slowlive/985282647660143081/live.m3u8"
+"line": "微赞线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/vzan.php?id=whzh"
+"line": "微赞线路2"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8"
+"line": "韶关线路"}
+#EXTINF:-1,tvg-id="                 {"url": "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8"" tvg-name="                 {"url": "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://WWW.SGMSW.CN/VIDEOS/TV/05//9PTCAFO13CXK6GN6BOAD2/HLS/LIVE3U8".png" group-title="其他",                 {"url": "https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8"
+"line": "韶关线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=lctv"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=lctv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=LCTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=lctv"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=ryzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://p2.vzan.com/slowlive/763398745742339271/live.m3u8"
+"line": "微赞线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/vzan.php?id=fgzh"
+"line": "微赞线路2"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=fgzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://hls.wiseqx.com/live/qxzh.m3u8"
+"line": "清新m3u8"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=qxzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://hls.wiseqx.com/live/qxgg.m3u8"" tvg-name="                 {"url": "http://hls.wiseqx.com/live/qxgg.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://HLS.WISEQX.COM/LIVE/QXGG3U8".png" group-title="其他",                 {"url": "http://hls.wiseqx.com/live/qxgg.m3u8"
+"line": "清新m3u8"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=ydzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jyzh&fmt=hls"
+"line": "揭阳m3u8"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jyzh&fmt=flv"
+"line": "揭阳flv"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jyzh&fmt=rtm"
+"line": "揭阳rtmp"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=hls"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=hls"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/JYXL.PHP?ID=JYSH&FMT=HLS".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=hls"
+"line": "揭阳m3u8"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=flv"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=flv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/JYXL.PHP?ID=JYSH&FMT=FLV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=flv"
+"line": "揭阳flv"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=rtm"" tvg-name="                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=rtm"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/GDTV/JYXL.PHP?ID=JYSH&FMT=RTM".png" group-title="其他",                 {"url": "http://lu1.cc/itv/gdtv/jyxl.php?id=jysh&fmt=rtm"
+"line": "揭阳rtmp"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=pnzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hzzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=xytv1"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=xytv1"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=XYTV1".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=xytv1"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=xytv"" tvg-name="                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=xytv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/GDY1.PHP?ID=XYTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/gdy1.php?id=xytv"
+"line": "奥点线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/p/gdy.html?id=yxtv"" tvg-name="                 {"url": "http://lu1.cc/itv/p/gdy.html?id=yxtv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/P/GDY.HTML?ID=YXTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/p/gdy.html?id=yxtv"
+"line": "奥点直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=ljzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=sxzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=xwzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV1.SMIL/PLAYLIST3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8"
+"line": "阳江线路"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b1152000.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b1152000.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV1.SMIL/CHUNKLIST_B3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b1152000.m3u8"
+"line": "阳江线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b928000.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b928000.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV1.SMIL/CHUNKLIST_B3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b928000.m3u8"
+"line": "阳江线路3"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b3628000.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b3628000.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV1.SMIL/CHUNKLIST_B3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv1.smil/chunklist_b3628000.m3u8"
+"line": "阳江线路4"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yjtv1"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yjtv1"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=YJTV1".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yjtv1"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://img.yjtvw.com/templates/moyun/player/player.swf?f=m3u8.swf&a=https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8&c=0&s=4&p=1&lv=1"" tvg-name="                 {"url": "http://img.yjtvw.com/templates/moyun/player/player.swf?f=m3u8.swf&a=https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8&c=0&s=4&p=1&lv=1"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://IMG.YJTVW.COM/TEMPLATES/MOYUN/PLAYER/PLAYER.SWF?F=M3U8.SWF&A=HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV1.SMIL/PLAYLIST3U8&C=0&S=4&P=1&LV=1".png" group-title="其他",                 {"url": "http://img.yjtvw.com/templates/moyun/player/player.swf?f=m3u8.swf&a=https://live.yjtvw.com:8081/live/yjtv1.smil/playlist.m3u8&c=0&s=4&p=1&lv=1"
+"line": "阳江直播"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV2.SMIL/PLAYLIST3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8"
+"line": "阳江线路"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b1152000.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b1152000.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV2.SMIL/CHUNKLIST_B3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b1152000.m3u8"
+"line": "阳江线路2"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b928000.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b928000.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV2.SMIL/CHUNKLIST_B3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b928000.m3u8"
+"line": "阳江线路3"}
+#EXTINF:-1,tvg-id="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b3628000.m3u8"" tvg-name="                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b3628000.m3u8"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV2.SMIL/CHUNKLIST_B3U8".png" group-title="其他",                 {"url": "https://live.yjtvw.com:8081/live/yjtv2.smil/chunklist_b3628000.m3u8"
+"line": "阳江线路4"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yjtv2"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yjtv2"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=YJTV2".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yjtv2"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="                 {"url": "http://img.yjtvw.com/templates/moyun/player/player.swf?f=m3u8.swf&a=https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8&c=0&s=4&p=1&lv=1"" tvg-name="                 {"url": "http://img.yjtvw.com/templates/moyun/player/player.swf?f=m3u8.swf&a=https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8&c=0&s=4&p=1&lv=1"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://IMG.YJTVW.COM/TEMPLATES/MOYUN/PLAYER/PLAYER.SWF?F=M3U8.SWF&A=HTTPS://LIVE.YJTVW.COM:/LIVE/YJTV2.SMIL/PLAYLIST3U8&C=0&S=4&P=1&LV=1".png" group-title="其他",                 {"url": "http://img.yjtvw.com/templates/moyun/player/player.swf?f=m3u8.swf&a=https://live.yjtvw.com:8081/live/yjtv2.smil/playlist.m3u8&c=0&s=4&p=1&lv=1"
+"line": "阳江直播"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yczh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=yxzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/qkxl.php?id=swzh"
+"line": "轻快线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/p/qkzb.php?id=swzh"
+"line": "轻快直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/qkxl.php?id=swwhsh"" tvg-name="                 {"url": "http://lu1.cc/itv/php/qkxl.php?id=swwhsh"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/QKXL.PHP?ID=SWWHSH".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/qkxl.php?id=swwhsh"
+"line": "轻快线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/p/qkzb.php?id=swwhsh"
+"line": "轻快直播"}
+#EXTINF:-1,tvg-id="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hftv"" tvg-name="                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hftv"" tvg-logo="https://epg.112114.xyz/logo/{"URL":"HTTP://LU1.CC/ITV/PHP/ITOUCH.PHP?ID=HFTV".png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hftv"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=gnzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=hjzh"
+"line": "触电线路"}
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",                 {"url": "http://lu1.cc/itv/php/itouch.php?id=ldzh"
+"line": "触电线路"}
