@@ -145,9 +145,9 @@ https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 8M
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="未分类",CCTV1 8M
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 8M
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="未分类",CCTV2 8M
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2 8M
 https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3 8M
 https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
