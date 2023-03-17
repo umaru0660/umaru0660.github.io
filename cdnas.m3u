@@ -1,81 +1,53 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="电视（临时）",广东珠江
+#EXTINF:-1 tvg-pk="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="电视（临时）",广东珠江
 https://epg.pw/stream/02b447bbc5e0cc215d67a600f209562ef683335e441152980510520a53d6f4ff.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="电视（临时）",广东公共
+#EXTINF:-1 tvg-pk="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="电视（临时）",广东公共
 https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="电视（临时）",广东新闻
+#EXTINF:-1 tvg-pk="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="电视（临时）",广东新闻
 https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
-http://192.168.10.11:8899/gdtv.php?id=gdws
-#EXTINF:-1 tvg-id="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
-http://192.168.10.11:8899/gdtv.php?id=gdzj
-#EXTINF:-1 tvg-id="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
-http://192.168.10.11:8899/gdtv.php?id=gdxw
-#EXTINF:-1 tvg-id="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东",广东公共
-http://192.168.10.11:8899/gdtv.php?id=gdgg
-#EXTINF:-1 tvg-id="47" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
-http://192.168.10.11:8899/gdtv.php?id=gdty
-#EXTINF:-1 tvg-id="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
+#EXTINF:-1 tvg-pk="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
+http://192.168.10.11:8899/gd.php?pk=gdws
+#EXTINF:-1 tvg-pk="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
+http://192.168.10.11:8899/gd.php?pk=gdzj
+#EXTINF:-1 tvg-pk="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
+http://192.168.10.11:8899/gd.php?pk=gdxw
+#EXTINF:-1 tvg-pk="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东",广东公共
+http://192.168.10.11:8899/gd.php?pk=gdgg
+#EXTINF:-1 tvg-pk="47" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
+http://192.168.10.11:8899/gd.php?pk=gdty
+#EXTINF:-1 tvg-pk="10" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="广东",广州新闻
 https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
-#EXTINF:-1 tvg-id="12" tvg-name="广州综合" tvg-logo="https://img2.baidu.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东",广州综合
+#EXTINF:-1 tvg-pk="12" tvg-name="广州综合" tvg-logo="https://img2.bapku.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东",广州综合
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
-#EXTINF:-1 tvg-id="51" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视
-http://192.168.10.11:8899/gdtv.php?id=nfws
-#EXTINF:-1 tvg-id="49" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",经济科教
-http://192.168.10.11:8899/gdtv.php?id=jjkj
-#EXTINF:-1 tvg-id="53" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
-http://192.168.10.11:8899/gdtv.php?id=gdys
-#EXTINF:-1 tvg-id="16" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺
-http://192.168.10.11:8899/gdtv.php?id=gdzy
-#EXTINF:-1 tvg-id="46" tvg-name="广东国际" tvg-logo="https://epg.112114.xyz/logo/广东国际.png" group-title="广东",广东国际
-http://192.168.10.11:8899/gdtv.php?id=gdgj
-#EXTINF:-1 tvg-id="54" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
-http://192.168.10.11:8899/gdtv.php?id=gdse
-#EXTINF:-1 tvg-id="66" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东",嘉佳卡通
-http://192.168.10.11:8899/gdtv.php?id=jjkt
-#EXTINF:-1 tvg-id="15" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="广东",岭南戏曲
-http://192.168.10.11:8899/gdtv.php?id=lnxq
-#EXTINF:-1 tvg-id="6" tvg-name="GRTN文化频道" tvg-logo="https://img.gdtv.cn/image/202007/0.8676630071906788202ff5603ed2b7517OSS1594019971.png" group-title="广东",GRTN文化频道
-http://192.168.10.11:8899/gdtv.php?id=gdwh
-#EXTINF:-1 tvg-id="13" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",南国都市
+#EXTINF:-1 tvg-pk="51" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视
+http://192.168.10.11:8899/gd.php?pk=nfws
+#EXTINF:-1 tvg-pk="49" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",经济科教
+http://192.168.10.11:8899/gd.php?pk=jjkj
+#EXTINF:-1 tvg-pk="53" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
+http://192.168.10.11:8899/gd.php?pk=gdys
+#EXTINF:-1 tvg-pk="16" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东",广东综艺
+http://192.168.10.11:8899/gd.php?pk=gdzy
+#EXTINF:-1 tvg-pk="46" tvg-name="广东国际" tvg-logo="https://epg.112114.xyz/logo/广东国际.png" group-title="广东",广东国际
+http://192.168.10.11:8899/gd.php?pk=gdgj
+#EXTINF:-1 tvg-pk="54" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东",广东少儿
+http://192.168.10.11:8899/gd.php?pk=gdse
+#EXTINF:-1 tvg-pk="66" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东",嘉佳卡通
+http://192.168.10.11:8899/gd.php?pk=jjkt
+#EXTINF:-1 tvg-pk="15" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="广东",岭南戏曲
+http://192.168.10.11:8899/gd.php?pk=lnxq
+#EXTINF:-1 tvg-pk="6" tvg-name="GRTN文化频道" tvg-logo="https://img.gd.cn/image/202007/0.8676630071906788202ff5603ed2b7517OSS1594019971.png" group-title="广东",GRTN文化频道
+http://192.168.10.11:8899/gd.php?pk=gdwh
+#EXTINF:-1 tvg-pk="13" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",南国都市
 https://aplays.gztv.com/sec/shenghuos.m3u8?auth_key
-#EXTINF:-1 tvg-id="13" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
+#EXTINF:-1 tvg-pk="13" tvg-name="广州法治" tvg-logo="https://epg.112114.xyz/logo/广州法治.png" group-title="广东",广州法治
 https://aplays.gztv.com/sec/fazhi.m3u8?auth_key
-#EXTINF:-1 tvg-id="7" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共
+#EXTINF:-1 tvg-pk="7" tvg-name="深圳公共" tvg-logo="https://epg.112114.xyz/logo/深圳公共.png" group-title="广东",深圳公共
 https://epg.pw/stream/e46de50fef165b4abd5b372b3c65d0befe94c229002c006da3ef5251300c5279.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
+#EXTINF:-1 tvg-pk="8" tvg-name="深圳都市" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="广东",深圳都市
 https://epg.pw/stream/81cf95bcb65d90a7937496b6105913dbc1cace1affade2c1b45666689c8f9c48.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东（触电）",广东珠江
-http://www.namewee.xyz/gd.php?pk=1183
-#EXTINF:-1 tvg-id="4" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东（触电）",广东卫视
-http://www.namewee.xyz/gd.php?pk=1182
-#EXTINF:-1 tvg-id="2" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东（触电）",广东新闻
-http://www.namewee.xyz/gd.php?pk=1186
-#EXTINF:-1 tvg-id="3" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东（触电）",广东公共
-http://www.namewee.xyz/gd.php?pk=1185
-#EXTINF:-1 tvg-id="5" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东（触电）",广东体育
-http://www.namewee.xyz/gd.php?pk=1184
-#EXTINF:-1 tvg-id="6" tvg-name="广东综艺" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="广东（触电）",广东综艺
-http://www.namewee.xyz/gd.php?pk=1198
-#EXTINF:-1 tvg-id="6" tvg-name="南方卫视" tvg-logo="https://epg.112114.xyz/logo/南方卫视.png" group-title="广东（触电）",南方卫视
-http://www.namewee.xyz/gd.php?pk=1197
-#EXTINF:-1 tvg-id="6" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东（触电）",广东影视
-http://www.namewee.xyz/gd.php?pk=1199
-#EXTINF:-1 tvg-id="6" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东（触电）",嘉佳卡通
-http://www.namewee.xyz/gd.php?pk=1187
-#EXTINF:-1 tvg-id="6" tvg-name="广东国际" tvg-logo="https://epg.112114.xyz/logo/广东国际.png" group-title="广东（触电）",广东国际
-http://www.namewee.xyz/gd.php?pk=1191
-#EXTINF:-1 tvg-id="6" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东（触电）",广东经济科教
-http://www.namewee.xyz/gd.php?pk=1196
-#EXTINF:-1 tvg-id="6" tvg-name="广东少儿" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png" group-title="广东（触电）",广东少儿
-http://www.namewee.xyz/gd.php?pk=1200
-#EXTINF:-1 tvg-id="6" tvg-name="GRTN文化频道" tvg-logo="https://img.gdtv.cn/image/202007/0.8676630071906788202ff5603ed2b7517OSS1594019971.png" group-title="广东（触电）",GRTN文化频道
-http://www.namewee.xyz/gd.php?pk=2511
-#EXTINF:-1 tvg-id="6" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="广东（触电）",深圳卫视
-http://www.namewee.xyz/gd.php?pk=1206
-#EXTINF:-1 tvg-id="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东（触电）",广东珠江
+#EXTINF:-1 tvg-pk="1" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东（触电）",广东珠江
 https://epg.pw/stream/026d74e28badf07cc288ba01fb18b87fd965f47c7182e7d4eede00ed5669afb4.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东（触电）",广东新闻
+#EXTINF:-1 tvg-pk="2" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东（触电）",广东新闻
 https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东（触电）",广东公共
+#EXTINF:-1 tvg-pk="3" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="广东（触电）",广东公共
 https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
