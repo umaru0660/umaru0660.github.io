@@ -19,8 +19,6 @@ http://192.168.10.11:8899/gd.php?pk=1184
 https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
 #EXTINF:-1 tvg-pk="12" tvg-name="广州综合" tvg-logo="https://img2.bapku.com/it/u=3491227106,2001480695&fm=253&fmt=auto&app=138&f=JPEG?w=321&h=200" group-title="广东",广州综合
 https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
-#EXTINF:-1 tvg-pk="51" tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视
-http://192.168.10.11:8899/gd.php?pk=nfws
 #EXTINF:-1 tvg-pk="49" tvg-name="经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",经济科教
 http://192.168.10.11:8899/gd.php?pk=1191
 #EXTINF:-1 tvg-pk="53" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东",广东影视
@@ -33,8 +31,6 @@ http://192.168.10.11:8899/gd.php?pk=1191
 http://192.168.10.11:8899/gd.php?pk=1200
 #EXTINF:-1 tvg-pk="66" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="广东",嘉佳卡通
 http://192.168.10.11:8899/gd.php?pk=1187
-#EXTINF:-1 tvg-pk="15" tvg-name="岭南戏曲" tvg-logo="https://epg.112114.xyz/logo/岭南戏曲.png" group-title="广东",岭南戏曲
-http://192.168.10.11:8899/gd.php?pk=lnxq
 #EXTINF:-1 tvg-pk="6" tvg-name="GRTN文化频道" tvg-logo="https://img.gd.cn/image/202007/0.8676630071906788202ff5603ed2b7517OSS1594019971.png" group-title="广东",GRTN文化频道
 http://192.168.10.11:8899/gd.php?pk=2511
 #EXTINF:-1 tvg-pk="13" tvg-name="南国都市" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" group-title="广东",南国都市
