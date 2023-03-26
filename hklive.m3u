@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png" group-title="香港",翡翠台
 http://live.cooltv.top/tv/tvb.php?id=1&hq
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png" group-title="香港",翡翠台
-http://live.cooltv.top/tv/good.php?id=1350_4500
 #EXTINF:-1 tvg-id=“109” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="香港",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id=“109” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="香港",有线新闻台
