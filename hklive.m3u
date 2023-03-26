@@ -1,10 +1,62 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png" group-title="香港",翡翠台
+http://live.cooltv.top/tv/tvb.php?id=1&hq
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png" group-title="香港",翡翠台
+http://live.cooltv.top/tv/good.php?id=1350_4500
 #EXTINF:-1 tvg-id=“109” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="香港",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id=“109” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="香港",有线新闻台
+https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://www.hklive.tv/png_logo/83.png" group-title="香港",无线新闻台
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
+http://live.cooltv.top/tv/good.php?id=1351_4500
+#EXTINF:-1 tvg-id="85" tvg-name="财经体育资讯台" tvg-logo="https://www.hklive.tv/png_logo/85.png" group-title="香港",财经体育资讯台
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="香港",有线财经资讯台
+https://uc6.i-cable.com/live_freedirect/freehd208_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="香港",HOY TV 
 http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="https://www.hklive.tv/png_logo/31.png" group-title="香港",港台电视31 
+http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="https://www.hklive.tv/png_logo/32.png" group-title="香港",港台电视32 
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://www.hklive.tv/png_logo/76.png" group-title="香港",香港国际财经台 
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东综艺" tvg-logo="http://live.cooltv.top/logo/gdzy.png" group-title="地方",广东综艺 http://live.cooltv.top/tv/good.php?id=GDZYHD4K_38000 
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="http://live.cooltv.top/logo/gdzj.png" group-title="地方",广东珠江 http://live.cooltv.top/tv/good.php?id=gdzhujiangHD_7500 
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="http://live.cooltv.top/logo/gdxw.png" group-title="地方",广东新闻 http://live.cooltv.top/tv/gd.php?id=gdxw 
+#EXTINF:-1 tvg-id="" tvg-name="广东公共" tvg-logo="http://live.cooltv.top/logo/gdgg.png" group-title="地方",广东公共 http://live.cooltv.top/tv/gd.php?id=gdgg 
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="http://live.cooltv.top/logo/gdty.png" group-title="地方",广东体育 http://live.cooltv.top/tv/gd.php?id=gdty 
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="http://live.cooltv.top/logo/gdjjkj.png" group-title="地方",广东经济科教 http://live.cooltv.top/tv/gd.php?id=jjkj 
+#EXTINF:-1 tvg-id="" tvg-name="广东影视" tvg-logo="http://live.cooltv.top/logo/gdys.png" group-title="地方",广东影视 http://live.cooltv.top/tv/gd.php?id=gdys 
+#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="http://live.cooltv.top/logo/gdse.png" group-title="地方",广东少儿 http://live.cooltv.top/tv/gd.php?id=gdse 
+#EXTINF:-1 tvg-id="" tvg-name="广东国际" tvg-logo="http://live.cooltv.top/logo/gdgj.png" group-title="地方",广东国际 http://live.cooltv.top/tv/gd.php?id=gdgj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳都市
+http://live.cooltv.top/tv/sztv.php?id=szds 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳电视剧
+http://live.cooltv.top/tv/sztv.php?id=szdsj 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳公共
+http://live.cooltv.top/tv/sztv.php?id=szgg 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳财经生活
+http://live.cooltv.top/tv/sztv.php?id=szcjsh 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳娱乐
+http://live.cooltv.top/tv/sztv.php?id=szyl 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳少儿
+http://live.cooltv.top/tv/sztv.php?id=szse 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳移动电视
+http://live.cooltv.top/tv/sztv.php?id=szyd 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳体育健康
+http://live.cooltv.top/tv/sztv.php?id=sztyjk 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",深圳国际
+http://live.cooltv.top/tv/sztv.php?id=szgj
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="" group-title="地方",广州综合 http://live.cooltv.top/tv/guangzhou.php?id=gzzh
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="" group-title="地方",广州法治 http://live.cooltv.top/tv/guangzhou.php?id=gzfz
+#EXTINF:-1 tvg-id="" tvg-name="广州影视" tvg-logo="" group-title="地方",广州影视 http://live.cooltv.top/tv/guangzhou.php?id=gzys
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="" group-title="地方",广州新闻 http://live.cooltv.top/tv/guangzhou.php?id=gzxw
+#EXTINF:-1 tvg-id="" tvg-name="广州竞赛" tvg-logo="" group-title="地方",广州竞赛 http://live.cooltv.top/tv/guangzhou.php?id=gzjs
+#EXTINF:-1 tvg-id="" tvg-name="广州南国都市" tvg-logo="" group-title="地方",广州南国都市 http://live.cooltv.top/tv/guangzhou.php?id=gzsh
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="国际",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="国际",CNA International
