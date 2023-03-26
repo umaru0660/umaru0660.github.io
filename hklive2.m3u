@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hklive.tv/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://www.hklive.tv/png_logo/83.png" group-title="[TVB] 電視廣播",无线新闻台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="财经体育资讯台" tvg-logo="https://www.hklive.tv/png_logo/85.png" group-title="[TVB] 電視廣播",财经体育资讯台
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-id=“109” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="[i-cable] 有線電視",有线新闻台
+https://cdn.hklive.tv/xxxx/109/index.m3u8
+#EXTINF:-1 tvg-id=“109” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png" group-title="[i-cable] 有線電視",有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="港台电视31" tvg-logo="https://www.hklive.tv/png_logo/31.png" group-title="[RTHK] 香港電台",港台电视31 
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="https://www.hklive.tv/png_logo/32.png" group-title="[RTHK] 香港電台",港台电视32 
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台电视33" tvg-logo="https://www.hklive.tv/png_logo/33.png" group-title="[RTHK] 香港電台",港台电视33 
+https://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN纪录频道" tvg-logo="https://www.hklive.tv/png_logo/34.png" group-title="[RTHK] 香港電台",CGTN纪录频道 
+https://cdn.hklive.tv/xxxx/34/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png" group-title="[Fan] 奇妙電視",HOY TV 
+https://cdn.hklive.tv/xxxx/77/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV资讯台" tvg-logo="https://www.hklive.tv/png_logo/78.png" group-title="[Fan] 奇妙電視",HOY TV资讯台 
+https://cdn.hklive.tv/xxxx/78/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://www.hklive.tv/png_logo/76.png" group-title="[Fan] 奇妙電視",香港国际财经台 
+https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 tvg-id=“108” tvg-name="有线财经资讯台" tvg-logo="https://epg.112114.xyz/logo/有线财经资讯台.png" group-title="[i-cable] 有線電視",有线财经资讯台
+https://cdn.hklive.tv/xxxx/108/index.m3u8
+#EXTINF:-1 tvg-id=“110” tvg-name="有线直播新闻台" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5b06402f058c4.png" group-title="[i-cable] 有線電視",有线直播新闻台
+https://cdn.hklive.tv/xxxx/110/index.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="娱乐新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/TVB_Entertainment_News_2017_logo.png" group-title="[TVB] myTV SUPER",娱乐新闻台
+https://cdn.hklive.tv/xxxx/91/index.m3u8
+#EXTINF:-1 tvg-id=“18” tvg-name="myTV SUPER 18台" tvg-logo="https://www.hklive.tv/png_logo/18.png" group-title="[TVB] myTV SUPER",myTV SUPER 18台
+https://cdn.hklive.tv/xxxx/18/index.m3u8
+#EXTINF:-1 tvg-id=“80” tvg-name="黄金翡翠台" tvg-logo="https://www.hklive.tv/png_logo/80.png" group-title="[TVB] myTV SUPER",黄金翡翠台
+https://cdn.hklive.tv/xxxx/80/index.m3u8
+#EXTINF:-1 tvg-id=“86” tvg-name="千禧经典台" tvg-logo="https://www.hklive.tv/png_logo/86.png" group-title="[TVB] myTV SUPER",千禧经典台
+https://cdn.hklive.tv/xxxx/86/index.m3u8
+#EXTINF:-1 tvg-id=“87” tvg-name="亚洲剧台" tvg-logo="https://www.hklive.tv/png_logo/87.png" group-title="[TVB] myTV SUPER",亚洲剧台
+https://cdn.hklive.tv/xxxx/87/index.m3u8
+#EXTINF:-1 tvg-id=“89” tvg-name="华语剧台" tvg-logo="https://www.hklive.tv/png_logo/89.png" group-title="[TVB] myTV SUPER",华语剧台
+https://cdn.hklive.tv/xxxx/89/index.m3u8
+#EXTINF:-1 tvg-id=“92” tvg-name="亚洲综艺台" tvg-logo="https://www.hklive.tv/png_logo/92.png" group-title="[TVB] myTV SUPER",亚洲综艺台
+https://cdn.hklive.tv/xxxx/92/index.m3u8
+#EXTINF:-1 tvg-id=“98” tvg-name="戏曲台" tvg-logo="https://www.hklive.tv/png_logo/98.png" group-title="[TVB] myTV SUPER",戏曲台
+https://cdn.hklive.tv/xxxx/98/index.m3u8
+#EXTINF:-1 tvg-id=“201” tvg-name="美亚电影台" tvg-logo="https://img0.baidu.com/it/u=1588321580,2401879025&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=300" group-title="[TVB] myTV SUPER",美亚电影台
+https://cdn.hklive.tv/xxxx/201/index.m3u8
+#EXTINF:-1 tvg-id=“203” tvg-name="天映经典频道" tvg-logo="https://images.sports8.net/cimg/1131.jpg" group-title="[TVB] myTV SUPER",天映经典频道
+https://cdn.hklive.tv/xxxx/203/index.m3u8
+#EXTINF:-1 tvg-id=“504” tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/640px-Animax_logo.svg.png" group-title="[TVB] myTV SUPER",Animax
+https://cdn.hklive.tv/xxxx/504/index.m3u8
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="[Now-TV] 電訊盈科媒電視",Now新闻台
+https://cdn.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="[Now-TV] 電訊盈科媒電視",Now新闻台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png" group-title="[Now-TV] 電訊盈科媒電視",Now直播台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png" group-title="[Now-TV] 電訊盈科媒電視",Now Sports Prime
+http://livetv.dnsfor.me:80/channel.12.m3u8 
