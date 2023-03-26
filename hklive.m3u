@@ -64,4 +64,4 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png" group-title="[Now-TV] 電訊盈科媒電視",Now直播台
 https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png" group-title="[Now-TV] 電訊盈科媒電視",Now Sports Prime
-http://livetv.dnsfor.me:80/channel.12.m3u8
+http://livetv.dnsfor.me:80/channel.12.m3u8 
