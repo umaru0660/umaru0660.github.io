@@ -42,9 +42,9 @@ https://cdn.hklive.tv/xxxx/110/index.m3u8
 #EXTINF:-1 tvg-id=“80” tvg-name="黄金翡翠台" tvg-logo="https://www.hklive.tv/png_logo/80.png" group-title="[TVB] myTV SUPER",黄金翡翠台
 #https://cdn.hklive.tv/xxxx/80/index.m3u8
 #EXTINF:-1 tvg-id=“86” tvg-name="千禧经典台" tvg-logo="https://www.hklive.tv/png_logo/86.png" group-title="[TVB] myTV SUPER",千禧经典台
-https://cdn.hklive.tv/xxxx/86/index.m3u8
+#https://cdn.hklive.tv/xxxx/86/index.m3u8
 #EXTINF:-1 tvg-id=“87” tvg-name="亚洲剧台" tvg-logo="https://www.hklive.tv/png_logo/87.png" group-title="[TVB] myTV SUPER",亚洲剧台
-https://cdn.hklive.tv/xxxx/87/index.m3u8
+#https://cdn.hklive.tv/xxxx/87/index.m3u8
 #EXTINF:-1 tvg-id=“89” tvg-name="华语剧台" tvg-logo="https://www.hklive.tv/png_logo/89.png" group-title="[TVB] myTV SUPER",华语剧台
 #https://cdn.hklive.tv/xxxx/89/index.m3u8
 #EXTINF:-1 tvg-id=“92” tvg-name="亚洲综艺台" tvg-logo="https://www.hklive.tv/png_logo/92.png" group-title="[TVB] myTV SUPER",亚洲综艺台
@@ -54,7 +54,7 @@ https://cdn.hklive.tv/xxxx/87/index.m3u8
 #EXTINF:-1 tvg-id=“201” tvg-name="美亚电影台" tvg-logo="https://img0.baidu.com/it/u=1588321580,2401879025&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=300" group-title="[TVB] myTV SUPER",美亚电影台
 #https://cdn.hklive.tv/xxxx/201/index.m3u8
 #EXTINF:-1 tvg-id=“203” tvg-name="天映经典频道" tvg-logo="https://images.sports8.net/cimg/1131.jpg" group-title="[TVB] myTV SUPER",天映经典频道
-https://cdn.hklive.tv/xxxx/203/index.m3u8
+#https://cdn.hklive.tv/xxxx/203/index.m3u8
 #EXTINF:-1 tvg-id=“504” tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/640px-Animax_logo.svg.png" group-title="[TVB] myTV SUPER",Animax
 #https://cdn.hklive.tv/xxxx/504/index.m3u8
 #EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="[Now-TV] 電訊盈科媒電視",Now新闻台
