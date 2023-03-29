@@ -7,7 +7,7 @@ http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="无线新闻台" tvg-logo="https://www.hklive.tv/png_logo/83.png" group-title="香港",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png" group-title="香港",明珠台
 http://live.cooltv.top/tv/good.php?id=1351_4500
 #EXTINF:-1 tvg-id="85" tvg-name="财经体育资讯台" tvg-logo="https://www.hklive.tv/png_logo/85.png" group-title="香港",财经体育资讯台
 http://live.cooltv.top/tv/tvb.php?id=2&hq
@@ -73,9 +73,9 @@ http://live.cooltv.top/tv/guangzhou.php?id=gzsh
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="国际",CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="[Now-TV] 電訊盈科媒電視",Now新闻台
+#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png" group-title="香港",Now新闻台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png" group-title="[Now-TV] 電訊盈科媒電視",Now直播台
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png" group-title="香港",Now直播台
 https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png" group-title="[Now-TV] 電訊盈科媒電視",Now Sports Prime
+#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png" group-title="香港",Now Sports Prime
 http://livetv.dnsfor.me:80/channel.12.m3u8
