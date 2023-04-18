@@ -3,8 +3,6 @@
 http://192.168.10.4:8899/gudou.php?id=gdzhujiangHD_7500
 #EXTINF:-1 group-title="广东",广东体育
 http://192.168.10.4:8899/gudou.php?id=1413
-#EXTINF:-1 group-title="广东",广东经济科教
-http://192.168.10.4:8899/gudou.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 group-title="广东",广东新闻
 http://192.168.10.4:8899/gudou.php?id=1454
 #EXTINF:-1 group-title="广东",广东民生
@@ -13,6 +11,8 @@ http://192.168.10.4:8899/gudou.php?id=1455
 http://192.168.10.4:8899/gudou.php?id=gzhounewsHD
 #EXTINF:-1 group-title="广东",广州新闻
 http://192.168.10.4:8899/gudou.php?id=gzhouzongheHD
+#EXTINF:-1 group-title="广东",广东经济科教
+http://192.168.10.4:8899/gudou.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 group-title="广东",大湾区卫视
 http://192.168.10.4:8899/gudou.php?id=1456
 #EXTINF:-1 group-title="广东",广东影视
