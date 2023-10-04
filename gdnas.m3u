@@ -7,14 +7,18 @@ http://192.168.10.4:8899/gudou.php?id=1413
 http://192.168.10.4:8899/gudou.php?id=1454
 #EXTINF:-1 group-title="广东",广东民生
 http://192.168.10.4:8899/gudou.php?id=1455
-#EXTINF:-1 group-title="广东",广州综合
-http://192.168.10.4:8899/gudou.php?id=gzhounewsHD
-#EXTINF:-1 group-title="广东",广州综合
-http://192.168.10.4:8899/gudou.php?id=1432_4500
 #EXTINF:-1 group-title="广东",广州新闻
-http://192.168.10.4:8899/gudou.php?id=gzhouzongheHD
+https://aplays.gztv.com/sec/xinwen.m3u8?auth_key
+#EXTINF:-1 group-title="广东",广州综合
+https://aplays.gztv.com/sec/zhonghes.m3u8?auth_key
+#EXTINF:-1 group-title="广东",广州综合
+#http://192.168.10.4:8899/gudou.php?id=gzhounewsHD
+#EXTINF:-1 group-title="广东",广州综合
+#http://192.168.10.4:8899/gudou.php?id=1432_4500
 #EXTINF:-1 group-title="广东",广州新闻
-http://192.168.10.4:8899/gudou.php?id=1433_4500
+#http://192.168.10.4:8899/gudou.php?id=gzhouzongheHD
+#EXTINF:-1 group-title="广东",广州新闻
+#http://192.168.10.4:8899/gudou.php?id=1433_4500
 #EXTINF:-1 group-title="广东",广东经济科教
 http://192.168.10.4:8899/gudou.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 group-title="广东",大湾区卫视
