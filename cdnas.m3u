@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-pk="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="电视（临时）",广东珠江
-https://epg.pw/stream/02b447bbc5e0cc215d67a600f209562ef683335e441152980510520a53d6f4ff.m3u8
-#EXTINF:-1 tvg-pk="48" tvg-name="广东公共" tvg-logo="https://epg.112114.xyz/logo/广东公共.png" group-title="电视（临时）",广东公共
-https://epg.pw/stream/42a44cf3b6cab5adfb2381f06611593ca4d0f13ec1e96f6e70136b34b6a3cb86.m3u8
-#EXTINF:-1 tvg-pk="45" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="电视（临时）",广东新闻
-https://epg.pw/stream/19469676d43af04e930b64cdd58e72f77b493c94b8cf20b67153dda0ecd44dac.m3u8
 #EXTINF:-1 tvg-pk="43" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="广东",广东卫视
 http://192.168.10.4:8899/gd.php?pk=1182
 #EXTINF:-1 tvg-pk="44" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江
