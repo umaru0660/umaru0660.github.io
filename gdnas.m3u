@@ -5,6 +5,8 @@ http://192.168.10.4:8899/gudou.php?id=gdzhujiangHD_7500
 http://192.168.10.4:8899/gudou.php?id=1413
 #EXTINF:-1 group-title="广东",广东新闻
 http://192.168.10.4:8899/gudou.php?id=1454
+#EXTINF:-1 group-title="广东",广东新闻
+http://219.137.231.97:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广东",广东民生
 http://192.168.10.4:8899/gudou.php?id=1455
 #EXTINF:-1 group-title="广东",广州新闻
