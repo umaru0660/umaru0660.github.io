@@ -5,6 +5,8 @@ http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=1413
 #EXTINF:-1 group-title="广东",广东新闻
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=1454
+#EXTINF:-1 group-title="广东",广东新闻
+http://219.137.231.97:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="广东",广东民生
 http://192.168.10.1:5678/gudou.php?phone=18998910474&ptoken=iG7pVn7s%2FzuD1QnflH%2FIjQ%3D%3D&pserialnumber=61bc79e2f63c4cd8&cid=30&id=1455
 #EXTINF:-1 group-title="广东",广州综合
