@@ -1,41 +1,38 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://www.hklive.tv/png_logo/81.png",翡翠台
-https://pull-l3-cny.douyincdn.com/live/93a4a00f2da15fe02c161beeaee07562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2台" tvg-logo="https://www.hklive.tv/png_logo/82.png",J2台
-https://pull-l3-cny.douyincdn.com/live/757c0b6da6703224414882a280c9dd6f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="https://www.hklive.tv/png_logo/83.png",无线新闻台
-https://pull-l3-cny.douyincdn.com/live/1e350ce3dc9f97824fd96e3665737a58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://www.hklive.tv/png_logo/84.png",明珠台
-https://pull-l3-cny.douyincdn.com/live/7e502cc18940a10c94cefaa36067737c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="财经体育资讯台" tvg-logo="https://www.hklive.tv/png_logo/85.png",财经体育资讯台
-https://pull-l3-cny.douyincdn.com/live/8cae9b3f27c3ba0c3747146b8b10b4e7.m3u8
-#EXTINF:-1 tvg-id=“7122” tvg-name="有线新闻台" tvg-logo="http://n.ysyz.top:99/buyaolian/Cable_News.png",有线新闻台
-https://pull-l3-cny.douyincdn.com/live/e87c436aa5ea83afe41c6e7de6e63f0b.m3u8
-#EXTINF:-1 tvg-id="NowNews.hk" tvg-name="NowNews.hk" tvg-logo="http://n.ysyz.top:99/buyaolian/nowxwt.png",Now新闻台
-https://pull-l3-cny.douyincdn.com/live/821caa51d1bcf609b37183d7d8c0c568.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hklive.tv/png_logo/99.png",ViuTV
-https://pull-l3-cny.douyincdn.com/live/ed43b4c1e7102b37cdf3a5f7c9a579a1.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://www.hklive.tv/png_logo/96.png",ViuTV Six
-https://pull-l3-cny.douyincdn.com/live/3706559caa3641a7a8e48373a7a94ed8.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="纬来体育" tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png",纬来体育 
-https://pull-l3-cny.douyincdn.com/live/b12274d4f822bf0233c8791c700de88b.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台电视32" tvg-logo="https://www.hklive.tv/png_logo/32.png",港台电视32 
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台电视33" tvg-logo="https://www.hklive.tv/png_logo/33.png",港台电视33 
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN纪录频道" tvg-logo="https://www.hklive.tv/png_logo/34.png",CGTN纪录频道 
-https://cdn.hklive.tv/xxxx/34/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://www.hklive.tv/png_logo/77.png",HOY TV 
-https://cdn.hklive.tv/xxxx/77/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="HOY TV资讯台" tvg-logo="https://www.hklive.tv/png_logo/78.png",HOY TV资讯台 
-https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香港国际财经台" tvg-logo="https://www.hklive.tv/png_logo/76.png",香港国际财经台 
-https://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-id=“7119” tvg-name="有线财经资讯台" tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Finance.png",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/cable_Live_News.png",有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/buyaolian/nowzbt.png",Now直播台
-https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 tvg-id="NowSportsPrime.hk" tvg-name="now sport prime" tvg-logo="http://n.ysyz.top:99/buyaolian/nowsportsprime.png",Now Sports Prime
-https://pull-l3-cny.douyincdn.com/live/38ffbcaf0b352f5b98c75c22afdbf5fa.m3u8
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="HongKong" tvg-id="hongkong/null-3" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] myTV SUPER FREE
+http://192.168.10.3:1234/stream/hongkong/null-3/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:2 group-title="HongKong" tvg-id="hongkong/tvbplus" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] TVB Plus
+http://192.168.10.3:1234/stream/hongkong/tvbplus/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:3 group-title="HongKong" tvg-id="hongkong/null-9" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 中央電視台綜合頻道 (港澳版)
+http://192.168.10.3:1234/stream/hongkong/null-9/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:4 group-title="HongKong" tvg-id="hongkong/null-6" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 娛樂新聞台
+http://192.168.10.3:1234/stream/hongkong/null-6/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:5 group-title="HongKong" tvg-id="hongkong/null-2" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 明珠台
+http://192.168.10.3:1234/stream/hongkong/null-2/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:6 group-title="HongKong" tvg-id="hongkong/null" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 無線新聞台
+http://192.168.10.3:1234/stream/hongkong/null/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:7 group-title="HongKong" tvg-id="hongkong/null-1" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 翡翠台
+http://192.168.10.3:1234/stream/hongkong/null-1/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:8 group-title="HongKong" tvg-id="hongkong/4k" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 翡翠台 4K
+http://192.168.10.3:1234/stream/hongkong/4k/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:9 group-title="HongKong" tvg-id="hongkong/null-5" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 鳳凰衛視中文台
+http://192.168.10.3:1234/stream/hongkong/null-5/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:10 group-title="HongKong" tvg-id="hongkong/null-7" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 鳳凰衛視資訊台
+http://192.168.10.3:1234/stream/hongkong/null-7/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:11 group-title="HongKong" tvg-id="hongkong/null-8" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 鳳凰衛視香港台
+http://192.168.10.3:1234/stream/hongkong/null-8/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:12 group-title="HongKong" tvg-id="hongkong/null-4" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 黃金翡翠台
+http://192.168.10.3:1234/stream/hongkong/null-4/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
