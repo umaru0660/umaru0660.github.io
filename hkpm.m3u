@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 #EXTINF:1 group-title="HongKong" tvg-id="hongkong/null-3" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] myTV SUPER FREE
 http://192.168.10.3:1234/stream/hongkong/null-3/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
