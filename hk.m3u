@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:1 group-title="HongKong" tvg-id="hongkong/null-3" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] myTV SUPER FREE
+http://pm.namewee.xyz/stream/hongkong/null-3/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:2 group-title="HongKong" tvg-id="hongkong/tvbplus" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] TVB Plus
+http://pm.namewee.xyz/stream/hongkong/tvbplus/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:3 group-title="HongKong" tvg-id="hongkong/null-9" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 中央電視台綜合頻道 (港澳版)
+http://pm.namewee.xyz/stream/hongkong/null-9/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:4 group-title="HongKong" tvg-id="hongkong/null-6" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 娛樂新聞台
+http://pm.namewee.xyz/stream/hongkong/null-6/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:5 group-title="HongKong" tvg-id="hongkong/null-2" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 明珠台
+http://pm.namewee.xyz/stream/hongkong/null-2/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:6 group-title="HongKong" tvg-id="hongkong/null" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 無線新聞台
+http://pm.namewee.xyz/stream/hongkong/null/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:7 group-title="HongKong" tvg-id="hongkong/null-1" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 翡翠台
+http://pm.namewee.xyz/stream/hongkong/null-1/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:8 group-title="HongKong" tvg-id="hongkong/4k" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 翡翠台 4K
+http://pm.namewee.xyz/stream/hongkong/4k/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:9 group-title="HongKong" tvg-id="hongkong/null-5" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 鳳凰衛視中文台
+http://pm.namewee.xyz/stream/hongkong/null-5/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:10 group-title="HongKong" tvg-id="hongkong/null-7" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 鳳凰衛視資訊台
+http://pm.namewee.xyz/stream/hongkong/null-7/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:11 group-title="HongKong" tvg-id="hongkong/null-8" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 鳳凰衛視香港台
+http://pm.namewee.xyz/stream/hongkong/null-8/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
+
+#EXTINF:12 group-title="HongKong" tvg-id="hongkong/null-4" tvg-logo="" provider="HongKong" provider-logo="" provider-type="iptv",[HongKong] 黃金翡翠台
+http://pm.namewee.xyz/stream/hongkong/null-4/master.m3u8?u=Namewee&p=94edf28c6d6da38fd35d7ad53e485307f89fbeaf120485c8d17a43f323deee71
